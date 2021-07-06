@@ -2,3 +2,28 @@ body{
   font-family:'Playfair Display', serif;
   margin: 0;
 }
+h1{
+    font-size: 50px;
+}
+.orange{
+    color: cornflowerblue;
+}
+.diet{
+    display: flex;
+    margin-bottom: 100%;
+}
+.about{
+    width: 50%;
+    padding-left: 2%;
+}
+.about img{
+    width: 80%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 600;
+    border-radius: 5px;
+}
